@@ -1,0 +1,8 @@
+{
+    "Dev": {
+        "baseUrl": "https://admin.dde.pwy.insightinvestment.com"
+    },
+    "Prod": {
+        "baseUrl": "https://admin.prd.pwy.insightinvestment.com"
+    }
+}
